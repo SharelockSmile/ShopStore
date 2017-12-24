@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("../../Images/templatemo_bg.jpg");
+    background-size: cover;
+}
+#header
+ {
+     width: 1200px;
+     height: 100px;
+ }
+#back
+{
+    width: 1200px;
+    height: 400px;
+    margin: auto;
+    background-image: url("../../Images/header_bg_blank.jpg");
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+#login
+{
+    width: 300px;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 760px;
+}
+table tr
+{
+    height: 40px;
+    text-align: center;
+	font-size:18px;
+}
